@@ -9,8 +9,11 @@ Builderです。
 - Astro
 ### ほんのちょっとさわってる
 - TypeScript
+### さわってるけどよくわかってない
 - Java
 - Svelte/SvelteKit
+- git
+- GitHub
 ### つかえない（つかいたい）
 - Rust
 - C++
