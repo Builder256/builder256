@@ -1,4 +1,24 @@
-## Hi there 👋
+## 自己紹介
+Builderです。
+
+## スキル 
+### そこそこさわってる
+- JavaScript (Web/Node.js)
+- CSS
+- TailwindCSS
+- Astro
+### ほんのちょっとさわってる
+- TypeScript
+- Java
+- Svelte/SvelteKit
+### つかえない（つかいたい）
+- Rust
+- C++
+- C#
+- Python
+- Flutter/Dart
+- Electron
+- Tauri
 
 <!--
 **Builder256/builder256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
